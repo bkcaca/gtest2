@@ -5,6 +5,6 @@
 
 int main() {
   int a = 10;
-  int b = 20;
+  int b = 30;
   std::cout << a << " + " << b << " = " << add(a, b) << std::endl;
 }
