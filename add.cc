@@ -1,4 +1,4 @@
-Copyright [2020] <vincent liu>
+// Copyright [2020] <vincent liu>
 
 #include "./add.h"
 
